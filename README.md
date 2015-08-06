@@ -1,2 +1,2 @@
 # myGitRepo
-My Git repository
+Gagan Acharya's Git repository
